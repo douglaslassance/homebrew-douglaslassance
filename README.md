@@ -1,4 +1,4 @@
-# Douglaslassance Gitalong
+# homebrew-gitalong
 
 ## How do I install these formulae?
 
